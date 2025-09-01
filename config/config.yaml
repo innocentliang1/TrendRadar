@@ -75,8 +75,6 @@ platforms:
     name: "凤凰网"
   - id: "weibo"
     name: "微博"
-  - id: "_36kr"
-    name: "36kr"
   - id: "ithome"
     name: "ithome"
   - id: "juejin"
